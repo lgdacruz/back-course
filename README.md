@@ -1,5 +1,5 @@
 <h1>Back Course</h1>
-Este projeto é uma API robusta para uma plataforma de cursos online, desenvolvida com Node.js, Express e MongoDB, permitindo o gerenciamento de usuários, cursos e 
+Este projeto é a API do repositório front-course, uma plataforma de cursos online.Este projeto foi desenvolvido com Node.js, Express e MongoDB, permitindo o gerenciamento de usuários, cursos e 
 aulas. A API também oferece suporte a upload de arquivos, autenticação segura e integração com serviços externos.
 
 <h2>🚀 Tecnologias Utilizadas</h2>
